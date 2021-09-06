@@ -17,7 +17,7 @@
 * Finish documentation
 * Fix serialization discrepencies whereby bundled transliterator JSON is not exact matching
 
-0.6.3 (09-05-2021)
+0.7.0 (09-05-2021)
 ------------------
 * Removed old python files
 
