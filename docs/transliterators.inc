@@ -1,3 +1,0 @@
-.. autoclass:: Example
-
-.. autoclass:: ITRANSDevanagariToUnicode

@@ -12,10 +12,14 @@
 
 [Unreleased - To Do]
 --------------------
-
+* add yaml support
 * Make sure if works in Vue, etc.
 * Finish documentation
 * Fix serialization discrepencies whereby bundled transliterator JSON is not exact matching
+
+0.6.3 (09-05-2021)
+------------------
+* Removed old python files
 
 0.6.2 (05-15-2020)
 ------------------
